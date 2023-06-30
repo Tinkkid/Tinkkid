@@ -28,7 +28,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tinkkid&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinkkid&layout=compact)
+
 
 
 
