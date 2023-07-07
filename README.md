@@ -9,6 +9,7 @@
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I'm studying frontend and backend for building web applications and looking my best future job.
 - :seedling: I'm currently learning Node.js and Next.js
+- :hearts: Fun fact I am super curious and never stop learning
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yuliia%20Kostovynska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuliia-kostovynska/)
 
@@ -22,6 +23,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
 </div>
 
 ---
